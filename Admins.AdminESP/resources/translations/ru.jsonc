@@ -1,0 +1,7 @@
+{
+    "ESP_Enabled": "{0} Режим Admin ESP [green]включен[default] (красная подсветка).",
+    "ESP_Disabled": "{0} Режим Admin ESP [red]выключен[default].",
+    "ESP_OnlySpectator": "{0} [red]Ошибка:[default] Admin ESP работает только когда вы находитесь в наблюдателях!",
+    "ESP_Disabled_TeamChange": "{0} Admin ESP [red]отключен[default], так как вы вышли из наблюдателей.",
+    "menu.adminesp.title": "Admin ESP"
+}

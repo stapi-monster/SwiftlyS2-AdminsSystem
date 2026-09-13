@@ -1,0 +1,7 @@
+{
+    "ESP_Enabled": "{0} Admin ESP mode [green]enabled[default] (red glow).",
+    "ESP_Disabled": "{0} Admin ESP mode [red]disabled[default].",
+    "ESP_OnlySpectator": "{0} [red]Error:[default] Admin ESP works only when you are in Spectators!",
+    "ESP_Disabled_TeamChange": "{0} Admin ESP [red]disabled[default] because you left Spectators.",
+    "menu.adminesp.title": "Admin ESP"
+}

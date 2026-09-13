@@ -1,0 +1,7 @@
+{
+    "atime.session_info": "{0} Ваша текущая сессия на сервере: [lime]{1}ч {2}мин {3}сек[default].",
+    "atime.not_found": "{0} Отслеживание времени для вашего профиля не найдено.",
+    "menu.admintime.title": "Отработанное время",
+    "menu.admintime.session": "Текущая сессия: {0}ч {1}мин {2}сек",
+    "menu.admintime.not_found": "Сессия не найдена"
+}

@@ -1,0 +1,7 @@
+{
+    "atime.session_info": "{0} Your current server session: [lime]{1}h {2}m {3}s[default].",
+    "atime.not_found": "{0} Time tracking for your profile was not found.",
+    "menu.admintime.title": "Admin Played Time",
+    "menu.admintime.session": "Current session: {0}h {1}m {2}s",
+    "menu.admintime.not_found": "Session not found"
+}

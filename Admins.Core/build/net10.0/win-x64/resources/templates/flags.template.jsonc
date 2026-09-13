@@ -1,0 +1,89 @@
+{
+  "Flags": {
+    "a": {
+      "name": "Резервный слот",
+      "access": {
+        "admins.commands.admin": "1",
+        "@admin/reserve": "1"
+      }
+    },
+    "b": {
+      "name": "Администратор (Баны и кики)",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.ban": "1",
+        "admins.commands.unban": "1",
+        "admins.commands.kick": "1",
+        "admins.menu.bans": "1"
+      }
+    },
+    "c": {
+      "name": "Кик игроков",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.kick": "1"
+      }
+    },
+    "d": {
+      "name": "Баны игроков",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.ban": "1",
+        "admins.commands.unban": "1",
+        "admins.menu.bans": "1"
+      }
+    },
+    "e": {
+      "name": "Блокировка общения (Мут/Гаг)",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.mute": "1",
+        "admins.commands.gag": "1",
+        "admins.commands.silence": "1",
+        "admins.commands.unmute": "1",
+        "admins.commands.ungag": "1",
+        "admins.commands.unsilence": "1",
+        "admins.menu.comms": "1"
+      }
+    },
+    "f": {
+      "name": "Слежка и эффекты (Noclip, Slap, Slay)",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.noclip": "1",
+        "admins.commands.slap": "1",
+        "admins.commands.slay": "1"
+      }
+    },
+    "g": {
+      "name": "Супер-команды (HP, God, Teleport)",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.hp": "1",
+        "admins.commands.god": "1",
+        "admins.commands.goto": "1",
+        "admins.commands.bring": "1",
+        "admins.commands.respawn": "1"
+      }
+    },
+    "h": {
+      "name": "Голосования",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.vote": "1",
+        "admins.commands.votekick": "1",
+        "admins.commands.votemap": "1"
+      }
+    },
+    "z": {
+      "name": "Главный администратор (Полный доступ)",
+      "access": {
+        "admins.commands.admin": "1",
+        "admins.commands.*": "1",
+        "admins.menu.bans": "1",
+        "admins.menu.comms": "1",
+        "@admin/own_reason": "1"
+      }
+    }
+  }
+}

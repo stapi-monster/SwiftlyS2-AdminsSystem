@@ -1,0 +1,21 @@
+{
+    "CC_Start_Notice": "{0} Администратор [green]{1}[default] вызывает игрока [green]{2}[default] на проверку читов!",
+    "CC_Input_Contact": "{0} Вы вызваны на проверку читов! Укажите ваш контакт (Discord/TG): [lime]!contact <ваш_контакт>[default]",
+    "CC_Contact_Received": "{0} Игрок [green]{1}[default] предоставил контакт: [lime]{2}[default]",
+    "CC_Stage3_Notice": "{0} Администратор [green]{1}[default] отметил начало проверки! Таймер остановлен.",
+    "CC_Passed": "{0} Игрок [green]{1}[default] успешно прошел проверку на читы! (Чистый)",
+    "CC_Missclick": "{0} Проверка игрока [green]{1}[default] отменена администратором (Миссклик).",
+    "CC_Banned_Cheats": "{0} Игрок [red]{1}[default] забанен за использование читов.",
+    "CC_Banned_Refusal": "{0} Игрок [red]{1}[default] забанен за отказ от проверки.",
+    "CC_Banned_NoContact": "{0} Игрок [red]{1}[default] забанен: не указал социальную сеть вовремя.",
+    "CC_Banned_Left": "{0} Игрок [red]{1}[default] забанен за выход из игры во время проверки.",
+    "CC_Stopped": "{0} Проверка игрока [green]{1}[default] отменена администратором.",
+    "menu.checkcheats.title": "Проверка на читы",
+    "CC_Select_Player": "Вызвать игрока на проверку",
+    "CC_Active_Check": "Управление текущей проверкой",
+    "CC_Menu_StartCheck": "Начать проверку (Остановить таймер)",
+    "CC_Menu_Clean": "Чистый (Завершить без бана)",
+    "CC_Menu_Cheats": "Использование читов (Забанить навсегда)",
+    "CC_Menu_Refusal": "Отказ от проверки (Забанить на 24ч)",
+    "CC_Menu_Missclick": "Миссклик (Отменить проверку)"
+}

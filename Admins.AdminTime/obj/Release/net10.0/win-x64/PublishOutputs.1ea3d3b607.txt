@@ -1,0 +1,15 @@
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\resources\translations\en.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\resources\translations\ru.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.AdminTime.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.AdminTime.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Dapper.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Bans.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Comms.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Core.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Menu.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Core.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Menu.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Bans.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.Comms.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminTime\Admins.AdminTime.deps.json

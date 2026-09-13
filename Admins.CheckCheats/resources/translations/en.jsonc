@@ -1,0 +1,21 @@
+{
+    "CC_Start_Notice": "{0} Admin [green]{1}[default] initiated cheat check on player [green]{2}[default]!",
+    "CC_Input_Contact": "{0} You are called for a cheat check! Provide your contact (Discord/TG): [lime]!contact <your_contact>[default]",
+    "CC_Contact_Received": "{0} Player [green]{1}[default] provided contact: [lime]{2}[default]",
+    "CC_Stage3_Notice": "{0} Admin [green]{1}[default] marked start of check! Timer stopped.",
+    "CC_Passed": "{0} Player [green]{1}[default] passed cheat check! (Clean)",
+    "CC_Missclick": "{0} Cheat check on player [green]{1}[default] cancelled by admin (Missclick).",
+    "CC_Banned_Cheats": "{0} Player [red]{1}[default] banned for cheat detection.",
+    "CC_Banned_Refusal": "{0} Player [red]{1}[default] banned for check refusal.",
+    "CC_Banned_NoContact": "{0} Player [red]{1}[default] banned for not providing contact info in time.",
+    "CC_Banned_Left": "{0} Player [red]{1}[default] banned for leaving during check.",
+    "CC_Stopped": "{0} Cheat check on player [green]{1}[default] cancelled by admin.",
+    "menu.checkcheats.title": "Cheat Check",
+    "CC_Select_Player": "Call player for check",
+    "CC_Active_Check": "Manage active check",
+    "CC_Menu_StartCheck": "Start check (Stop timer)",
+    "CC_Menu_Clean": "Clean (Finish without ban)",
+    "CC_Menu_Cheats": "Cheating (Permanent ban)",
+    "CC_Menu_Refusal": "Refusal (Ban for 24h)",
+    "CC_Menu_Missclick": "Missclick (Cancel check)"
+}

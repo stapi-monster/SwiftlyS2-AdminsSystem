@@ -1,0 +1,15 @@
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\resources\translations\en.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\resources\translations\ru.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.CheckCheats.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.CheckCheats.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Dapper.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Bans.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Comms.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Core.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Menu.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Core.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Menu.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Bans.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.Comms.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.CheckCheats\Admins.CheckCheats.deps.json

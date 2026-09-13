@@ -1,0 +1,6 @@
+{
+    "UsageRcon": "{0} Синтаксис RCON: [lime]{1} <команда>[default]",
+    "RconExecuted": "{0} [green]{1}[default] выполнил RCON-команду: [lime]{2}[default]",
+    "RconNoPermission": "{0} [red]У вас нет прав для выполнения RCON-команд.[default]",
+    "menu.rcon.title": "RCON Управление"
+}

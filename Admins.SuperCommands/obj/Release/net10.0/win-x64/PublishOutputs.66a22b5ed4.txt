@@ -1,0 +1,14 @@
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\resources\translations\en.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\resources\translations\pt-BR.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\resources\translations\ru.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.SuperCommands.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.SuperCommands.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Bans.Contract.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Comms.Contract.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Core.Contract.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Menu.Contract.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Core.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Menu.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Bans.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.Comms.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\Admins.SuperCommands\Admins.SuperCommands.deps.json

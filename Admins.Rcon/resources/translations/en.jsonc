@@ -1,0 +1,6 @@
+{
+    "UsageRcon": "{0} RCON Usage: [lime]{1} <command>[default]",
+    "RconExecuted": "{0} [green]{1}[default] executed RCON command: [lime]{2}[default]",
+    "RconNoPermission": "{0} [red]You do not have permission to execute RCON commands.[default]",
+    "menu.rcon.title": "RCON Management"
+}

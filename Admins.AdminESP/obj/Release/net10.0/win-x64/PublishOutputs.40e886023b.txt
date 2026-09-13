@@ -1,0 +1,13 @@
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\resources\translations\en.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\resources\translations\ru.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.AdminESP.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.AdminESP.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Bans.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Comms.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Core.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Menu.Contract.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Core.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Menu.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Bans.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.Comms.Contract.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\AdminsSystem\build\test_publish\Admins.AdminESP\Admins.AdminESP.deps.json

@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "Admins.Hide/1.0.0": {
+        "dependencies": {
+          "Admins.Core.Contract": "1.0.0",
+          "Admins.Menu.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Admins.Hide.dll": {}
+        }
+      },
+      "Admins.Bans.Contract/1.0.0": {
+        "runtime": {
+          "Admins.Bans.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Admins.Comms.Contract/1.0.0": {
+        "runtime": {
+          "Admins.Comms.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Admins.Core.Contract/1.0.0": {
+        "dependencies": {
+          "Admins.Bans.Contract": "1.0.0",
+          "Admins.Comms.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Admins.Core.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Admins.Menu.Contract/1.0.0": {
+        "runtime": {
+          "Admins.Menu.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Admins.Hide/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admins.Bans.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admins.Comms.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admins.Core.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Admins.Menu.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
